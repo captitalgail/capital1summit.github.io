@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <Container className="App">
         <h1>Capital One's Mind Sumo Challenge</h1>
-        <h2>By Isabella Berry</h2>
+        <h2>By Gail Steward</h2>
       </Container>
     );
   }
